@@ -3,24 +3,45 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   const projects = [
     {
-      title: "Banking App Redesign",
-      description: "Redesigned mobile banking interface focusing on accessibility and simplified navigation for elderly users.",
-      tags: ["Mobile Design", "Accessibility", "Figma"],
+      title: "Web-Based Application for University Based Allied Health Monitoring System",
+      description: "Comprehensive health monitoring system for university allied health programs with real-time data tracking and analytics.",
+      tags: ["Web Design", "Health Tech", "Dashboard"],
       image: "/lovable-uploads/8a9e3c4d-2fb1-4a3e-9c8f-1d5e7b9a3c6d.png",
       color: "primary"
     },
     {
-      title: "Plant Care Tracker",
-      description: "Student project creating an intuitive app to help users track watering schedules and plant health.",
-      tags: ["UI Design", "Prototyping", "User Research"],
+      title: "IHRISH",
+      description: "Innovative health information system designed to streamline healthcare data management and patient care workflows.",
+      tags: ["UI Design", "Healthcare", "System Design"],
       image: "/lovable-uploads/5b7c8e2a-4d9f-4e2b-8c1f-3a6d9b5e7c2f.png",
       color: "secondary"
     },
     {
-      title: "Recipe Sharing Platform",
-      description: "Designed a community-driven platform for sharing and discovering recipes with social features.",
-      tags: ["Web Design", "UX Research", "Wireframing"],
+      title: "Mobile Push Notification (UI)",
+      description: "User interface design for mobile push notification system with customizable alerts and notification management.",
+      tags: ["Mobile UI", "Notifications", "UX Design"],
       image: "/lovable-uploads/9c3d7e1b-5a8f-4c2d-9b1e-6f4a8d3e7b5c.png",
+      color: "accent"
+    },
+    {
+      title: "Mobile Scanner (UI)",
+      description: "Intuitive mobile scanning interface with document recognition and seamless image capture functionality.",
+      tags: ["Mobile UI", "Scanner", "Prototyping"],
+      image: "/lovable-uploads/d3e8b5a1-3ae9-4fb3-b8ec-e5a6b8a95f23.png",
+      color: "primary"
+    },
+    {
+      title: "PayPal (Prototype)",
+      description: "Redesigned payment interface prototype focusing on simplified transaction flows and enhanced security features.",
+      tags: ["Prototype", "Fintech", "UI Design"],
+      image: "/lovable-uploads/8a9e3c4d-2fb1-4a3e-9c8f-1d5e7b9a3c6d.png",
+      color: "secondary"
+    },
+    {
+      title: "ActiveFIT App",
+      description: "Fitness tracking application with personalized workout plans, progress monitoring, and health analytics.",
+      tags: ["Mobile App", "Fitness", "UX Research"],
+      image: "/lovable-uploads/5b7c8e2a-4d9f-4e2b-8c1f-3a6d9b5e7c2f.png",
       color: "accent"
     },
   ];

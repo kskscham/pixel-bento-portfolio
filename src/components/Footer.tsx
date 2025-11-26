@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="py-8 px-4 border-t border-border">
       <div className="max-w-7xl mx-auto text-center space-y-4">
         <p className="text-sm text-muted-foreground">
-          Designed & Built with <span className="text-primary">❤️</span> by Alex
+          Designed & Built with <span className="text-primary">❤️</span> by Cham
         </p>
         <p className="text-xs text-muted-foreground">
           © 2024 • Pixel-Perfect Portfolio

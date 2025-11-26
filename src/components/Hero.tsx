@@ -24,7 +24,7 @@ const Hero = () => {
         {/* Intro Text */}
         <div className="space-y-4 animate-fade-in">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-            Hi, I'm <span className="text-primary">Alex</span>
+            Hi, I'm <span className="text-primary">Cham</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             Aspiring UI/UX Designer crafting pixel-perfect experiences
